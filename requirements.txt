@@ -10,5 +10,5 @@ pposttl==0.1
 pymongo==2.4.1
 python-transparencydata==0.1
 requests==1.0.4
--e git+git@github.com:boblannon/stanford-corenlp-python.git@f7a4216f2cc3797b3782edc4e89a9d77b75415c4#egg=stanford_corenlp_python-origin/distribution
+-e git+git@github.com:boblannon/stanford-corenlp-python.git@bob_fork#egg=stanford-corenlp-python
 wsgiref==0.1.2
