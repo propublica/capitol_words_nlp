@@ -1,0 +1,14 @@
+PyYAML==3.10
+Unidecode==0.04.10
+argparse==1.2.1
+demjson==1.6
+ipython==0.13.1
+lxml==3.0.1
+nltk==2.0.4
+pexpect==2.4
+pposttl==0.1
+pymongo==2.4.1
+python-transparencydata==0.1
+requests==1.0.4
+-e git+git@github.com:boblannon/stanford-corenlp-python.git@f7a4216f2cc3797b3782edc4e89a9d77b75415c4#egg=stanford_corenlp_python-origin/distribution
+wsgiref==0.1.2
