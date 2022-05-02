@@ -1,6 +1,10 @@
 capitol_words_nlp
 =================
 
+This repository is no longer maintained and exists for archival purposes only.
+
+<details><summary>See archival README information.</summary>
+
 Experimenting with parsing the congressional record using NLP techniques and tools
 
 Setup
@@ -22,3 +26,5 @@ First, get mongo running. Then:
 ```
 python import_to_mongo.py path_to_data_dir desired_name_of_mongo_db
 ```
+
+</details>
